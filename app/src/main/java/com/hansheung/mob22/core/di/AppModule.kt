@@ -1,4 +1,4 @@
-package com.hansheung.mob22.di
+package com.hansheung.mob22.core.di
 
 import dagger.Module
 import dagger.Provides

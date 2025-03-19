@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.hansheung.mob_project"
+    namespace = "com.hansheung.mob22"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.hansheung.mob_project"
+        applicationId = "com.hansheung.mob22"
         minSdk = 28
         targetSdk = 35
         versionCode = 1
@@ -63,6 +63,6 @@ dependencies {
     implementation("com.google.dagger:hilt-android:2.52")
     kapt("com.google.dagger:hilt-android-compiler:2.52")
 
-    implementation("androidx.navigation:navigation-fragment:2.8.8")
-    implementation("androidx.navigation:navigation-ui:2.8.8")
+    implementation("androidx.navigation:navigation-fragment-ktx:2.8.8")
+    implementation("androidx.navigation:navigation-ui-ktx:2.8.8")
 }

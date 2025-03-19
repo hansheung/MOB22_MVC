@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "mob 21"
+rootProject.name = "mob 22"
 include(":app")
  
