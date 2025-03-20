@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.hansheung.mob22.databinding.FragmentHomeBinding
+import com.hansheung.mob_project.databinding.FragmentHomeBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
