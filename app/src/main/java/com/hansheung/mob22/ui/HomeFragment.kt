@@ -1,6 +1,5 @@
 package com.hansheung.mob22.ui
 
-import androidx.fragment.app.viewModels
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
